@@ -1,0 +1,52 @@
+body {
+	margin-top: 3rem;
+}
+
+/****** CONTENT *******/
+
+#dropHere {
+  padding: 3rem;
+  background: #EEE;
+  margin-bottom: 3rem;
+}
+
+#dropHere h1 {
+  font-size: 2rem;
+}
+#dropHere p {
+  font-size: 1.5rem;
+}
+
+#toTop {
+  position: fixed;
+  right: 3rem;
+  bottom: 4rem;
+  z-index: 99;
+}
+
+#toTop i.glyphicon-circle-arrow-up {
+  font-size: 3rem;
+}
+
+footer {
+  margin-top: 5rem;
+  padding: 3rem 1rem;
+  background: #EEE;
+}
+
+footer a {
+  color: #555;
+}
+
+/***** Markdown *****/
+
+h2 {
+  padding : 0.5rem 1rem;
+  margin-top: 4rem;
+  background: #333;
+  color: white;
+}
+
+h3 {
+  margin-top: 3rem;
+}
